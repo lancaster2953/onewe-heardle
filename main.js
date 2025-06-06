@@ -3,7 +3,7 @@ var app = (function () {
   var twitter = 'lanca_eyou'
   var startDate = "2025-06-05"
     const Cn = ue([
-      "洛陽懷/Luoyang Huai - Li Bai x Du Fu",
+      "\"End of Spring\" (나의 계절 봄은 끝났다)",
       "好字唯之/Haozi Weizhi - Wang Xizhi",
       "高歌破陣/Gaoge Pozhen - Li Shimin",
       "\"Crazy Good\" (미쳤다 미쳤어)",
@@ -49,8 +49,8 @@ var app = (function () {
       subscribe: ue(
         [
           {
-            url: "https://soundcloud.com/user-512731429/luo-yang-huai",
-            answer: "洛陽懷/Luoyang Huai - Li Bai x Du Fu",
+            url: "https://www.youtube.com/watch?v=bty1sb70hD4",
+            answer: "\"End of Spring\" (나의 계절 봄은 끝났다)",
           },
           {
             url: "https://soundcloud.com/user-512731429/hao-zi-wei-zhi",
