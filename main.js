@@ -49,7 +49,7 @@ var app = (function () {
       subscribe: ue(
         [
           {
-            url: "https://www.youtube.com/watch?v=bty1sb70hD4",
+            url: "https://open.spotify.com/track/2UjODaXZs46o9fYyf83m2p",
             answer: "\"End of Spring\" (나의 계절 봄은 끝났다)",
           },
           {
