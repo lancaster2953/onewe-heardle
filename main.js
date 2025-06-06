@@ -1,12 +1,12 @@
 var app = (function () {
-  var artist = 'Wangchuan';
+  var artist = 'Onewe';
   var twitter = 'lanca_eyou'
   var startDate = "2025-06-05"
     const Cn = ue([
       "洛陽懷/Luoyang Huai - Li Bai x Du Fu",
       "好字唯之/Haozi Weizhi - Wang Xizhi",
       "高歌破陣/Gaoge Pozhen - Li Shimin",
-      "始見千秋/Shijian Qianqiu - Ying Zheng",
+      "\"Crazy Good\" (미쳤다 미쳤어)",
       "補天裂/Butianlie - Xin Qiji",
       "千秋夢/Qianqiu Meng - Wu Zetian",
       "謂劍/Wei Jian - Gan Jiang x Mo Ye",
@@ -61,8 +61,8 @@ var app = (function () {
             answer: "高歌破陣/Gaoge Pozhen - Li Shimin",
           },
           {
-            url: "https://soundcloud.com/user-512731429/shi-jian-qian-qiu",
-            answer: "始見千秋/Shijian Qianqiu - Ying Zheng",
+            url: "https://soundcloud.com/user-162080269/crazy-good",
+            answer: "\"Crazy Good\" (미쳤다 미쳤어)",
           },
           {
             url: "https://soundcloud.com/user-512731429/bu-tian-lie",
